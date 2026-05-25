@@ -1,9 +1,43 @@
 # depslib dependency file v1.0
-1777900804 source:d:\esilv\s2\c++\uttt_template\main.cpp
-	<iostream>
+1779483082 source:d:\esilv\s2\c++\uttt_template\main.cpp
+	"Game.h"
+
+1779482673 d:\esilv\s2\c++\uttt_template\main.h
+	<string>
+
+1779483076 source:d:\esilv\s2\c++\uttt_template\board.cpp
+	"Board.h"
+
+1779482268 d:\esilv\s2\c++\uttt_template\move.h
+	"main.h"
+
+1779483070 source:d:\esilv\s2\c++\uttt_template\ai.cpp
+	"AI.h"
+
+1779483076 d:\esilv\s2\c++\uttt_template\ai.h
+	"Board.h"
+	"Evaluator.h"
+
+1779483075 d:\esilv\s2\c++\uttt_template\board.h
 	<vector>
 	"main.h"
 
-1777821122 d:\esilv\s2\c++\uttt_template\main.h
-	<string>
+1779483076 d:\esilv\s2\c++\uttt_template\evaluator.h
+	"Board.h"
+
+1779483075 source:d:\esilv\s2\c++\uttt_template\evaluator.cpp
+	"Evaluator.h"
+
+1779483076 source:d:\esilv\s2\c++\uttt_template\game.cpp
+	"Game.h"
+	"main.h"
+	<iostream>
+
+1779483075 d:\esilv\s2\c++\uttt_template\game.h
+	"Board.h"
+	"AI.h"
+
+1779482350 source:d:\esilv\s2\c++\uttt_template\move.cpp
+	"Move.h"
+	"main.h"
 
